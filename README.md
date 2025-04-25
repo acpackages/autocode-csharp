@@ -1,2 +1,2 @@
-# autocode-csharo
+# autocode-csharp
 C# Packages for Autocode
